@@ -31,4 +31,4 @@ Computer Engineering Student at SVIT, Nashik
 
 Contact: ommwalzade@gmail.com 
 
-Would you like me to guide you through the steps to enable "GitHub Pages" so you can include a live URL in your submission?
+Would you like me to guide you through the steps to enable "GitHub Pages" so you can include a live URL in your submission.
