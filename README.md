@@ -4,13 +4,6 @@ A clean, semantic, single-page resume website built entirely with HTML5. This pr
 🚀 Project Overview
 The goal of this project was to replicate a specific resume layout using only core HTML elements. It serves as a digital representation of my professional background as a Computer Engineering student.
 
-🛠️ Built With
-HTML5: Utilized for all structure and content.
-
-Semantic Elements: Implemented <header>, <section>, and <footer> for improved accessibility and SEO.
-
-Traditional Attributes: Used border, cellpadding, and cellspacing within tables to achieve the visual alignment required by the assignment.
-
 ✨ Features
 
 Personal Branding: Professional header with name and current role.
